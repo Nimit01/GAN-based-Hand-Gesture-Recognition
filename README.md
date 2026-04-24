@@ -124,7 +124,8 @@ README.md
 ## Contributors
 - Vedant  
 - Nimit  
-- Vraj  
+- Vraj
+- Varun
 
 ---
 
